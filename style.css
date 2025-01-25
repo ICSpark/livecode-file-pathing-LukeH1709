@@ -4,4 +4,23 @@ body {
 
 img {
     width: 200px;
+    border: 2px solid lightyellow;
+    border-radius: 5px;
+}
+
+#pep {
+    color: red;
+    font-size: 20px;
+}
+
+#cheese {
+    color: yellow;
+}
+
+h1 {
+    color: white;
+}
+
+html {
+    background-color: black;
 }
